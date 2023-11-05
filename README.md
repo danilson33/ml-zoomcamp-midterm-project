@@ -1,5 +1,5 @@
 ## Sport car price prediction
-![Sport car price prediction](https://storage.googleapis.com/kaggle-datasets-images/2988825/5144443/38723a1b40c5912b4224e3378a0eef8b/dataset-cover.jpg?t=2023-03-11-05-55-54)
+![Sport car price prediction](dataset-cover.jpg)
 
 ## About the project
 Are you trying to figure out your sport car price ?
