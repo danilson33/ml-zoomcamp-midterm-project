@@ -8,8 +8,8 @@ import warnings
 warnings.filterwarnings('ignore')
 
 SEED = 42
-DATA_INPUT_PATH = "../data/processed/data.csv"
-MODEL_FILE = "../artifacts/GradientBoostingRegressor.pkl"
+DATA_INPUT_PATH = "/app/data/processed/data.csv"
+MODEL_FILE = "/app/artifacts/GradientBoostingRegressor.pkl"
 
 
 def load_data():

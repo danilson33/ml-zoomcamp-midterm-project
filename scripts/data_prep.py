@@ -7,8 +7,8 @@ from sklearn.preprocessing import LabelEncoder
 import warnings
 warnings.filterwarnings('ignore')
 
-DATA_INPUT_PATH = "../data/raw/sport_car_price.csv"
-DATA_OUTPUT_PATH = "../data/processed/data.csv"
+DATA_INPUT_PATH = "/app/data/raw/sport_car_price.csv"
+DATA_OUTPUT_PATH = "/app/data/processed/data.csv"
 
 
 def load_main_data(logger: logging.Logger) -> pd.DataFrame:
